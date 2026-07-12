@@ -1,0 +1,231 @@
+{
+  "library": "Synth Goblins",
+  "description": "Synth goblins — atmospheric texture from freepats",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-goblins",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-goblins-previews",
+  "branch": "main",
+  "fileCount": 18,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/",
+  "files": [
+    {
+      "file": "C2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C2.mp3",
+      "size": 109548,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C3.mp3",
+      "size": 109548,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C4.mp3",
+      "size": 109548,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C5.mp3",
+      "size": 109548,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C6.mp3",
+      "size": 109548,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/C7.mp3",
+      "size": 109548,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E2.mp3",
+      "size": 109548,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E3.mp3",
+      "size": 109966,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E4.mp3",
+      "size": 109966,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E5.mp3",
+      "size": 109966,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E6.mp3",
+      "size": 109548,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/E7.mp3",
+      "size": 109548,
+      "note": "E7",
+      "midiNote": 100,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs2.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs3.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs4.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs5.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs6.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-goblins-previews/main/Gs7.mp3",
+      "size": 109548,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.mp3"
+    ],
+    "40": [
+      "E2.mp3"
+    ],
+    "48": [
+      "C3.mp3"
+    ],
+    "52": [
+      "E3.mp3"
+    ],
+    "60": [
+      "C4.mp3"
+    ],
+    "64": [
+      "E4.mp3"
+    ],
+    "72": [
+      "C5.mp3"
+    ],
+    "76": [
+      "E5.mp3"
+    ],
+    "84": [
+      "C6.mp3"
+    ],
+    "88": [
+      "E6.mp3"
+    ],
+    "96": [
+      "C7.mp3"
+    ],
+    "100": [
+      "E7.mp3"
+    ]
+  }
+}
